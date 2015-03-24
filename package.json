@@ -1,0 +1,25 @@
+{
+  "name": "typescript-ws-2d-scroller",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-banner": "^0.3.1",
+    "grunt-bbb-server": "~0.1.0-alpha.13",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-karma": "~0.8.3",
+    "grunt-manifest": "^0.4.0",
+    "grunt-processhtml": "~0.3.3",
+    "grunt-typescript": "^0.3.8"
+  },
+  "peerDependencies": {
+    "generator-bbb": "*",
+    "bower": "*",
+    "grunt-cli": "*"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "typescript-ws-2d-scroller",
+  "version": "0.0.1",
+  "authors": [
+    "David A T Børresen <dab@capraconsulting.no>"
+  ],
+  "description": "Typescript 2d scroller",
+  "keywords": [
+    "game",
+    "html5"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.2.2"
+  }
+}
