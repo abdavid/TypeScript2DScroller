@@ -18,8 +18,10 @@
     "grunt-typescript": "^0.3.8"
   },
   "peerDependencies": {
-    "generator-bbb": "*",
     "bower": "*",
     "grunt-cli": "*"
+  },
+  "scripts": {
+    "install": "bower install"
   }
 }
